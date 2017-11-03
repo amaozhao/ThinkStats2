@@ -52,8 +52,5 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
-*.pdf
-*.eps
-*.png
 *~
-.idea/inspectionProfiles/
+.idea

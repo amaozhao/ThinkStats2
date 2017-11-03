@@ -2,138 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7cef6b96-3d1e-4610-b46a-6a8da8c04da0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/1982NSFGData.dat.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/1995FemRespData.dat.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2002FemPreg.dat.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2002FemResp.dat.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2002Male.dat.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2006_2010_FemPreg.dat.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2006_2010_FemResp.dat.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2006_2010_Male.dat.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2011_2013_FemPregData.dat.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2011_2013_FemRespData.dat.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2011_2013_MaleData.dat.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/CDBRFS08.ASC.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/CDBRFS08ASC.ZIP" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/ThinkStats2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book/book.tex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book/htmlonly" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book/latexonly" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book/localdef.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book/mylocals.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/book/note.tex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2002FemPreg.dct" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2002FemResp.dct" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2002Male.dct" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2006_2010_FemPregSetup.dct" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2006_2010_FemRespSetup.dct" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2006_2010_MaleSetup.dct" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2011_2013_FemPregSetup.dct" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2011_2013_FemRespSetup.dct" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/2011_2013_MaleSetup.dct" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/Apr25_27thAn_set1.shtml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/PEP_2012_PEPANNRES_metadata.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/PEP_2012_PEPANNRES_with_ann.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/analytic.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/babyboom.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/brfss.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap01ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap01ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap01soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap01soln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap02ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap02ex.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap02soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap02soln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap03ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap03soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap03soln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap04ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap04soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap05ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap05soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap06ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap06soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap06soln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap07ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap07soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap07soln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap08ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap08soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap08soln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap09ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap09soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap09soln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap10ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap10soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap11ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap11soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap12ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap12soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap12soln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap13ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap13soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap13soln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap14ex.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap14soln.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/chap14soln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/cumulative.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/density.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/estimation.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/first.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/hinc.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/hinc06.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/hinc2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/hinc_soln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/hypothesis.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/linear.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/mj-clean.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/mystery.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/mystery0.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/mystery1.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/mystery2.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/mystery3.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/mystery4.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/mystery5.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/mystery6.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/mystery7.dat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/normal.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/nsfg.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/nsfg2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/pandas_demos.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/pandas_examples.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/populations.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/populations.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/probability.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/regression.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/relay.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/relay_soln.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/requirements.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/scatter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/setup.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/survival.ipynb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/survival.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/survival_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/test_models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/thinkplot.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/thinkplot_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/thinkstats2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/thinkstats2_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/code/timeseries.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -143,7 +12,29 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Pmf.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/Pmf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="32" column="15" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="15" />
+              <folding>
+                <element signature="e#451#465#0" expanded="true" />
+                <element signature="e#2820#3993#0" expanded="false" />
+                <element signature="e#4025#6768#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,6 +42,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/code/thinkstats2.py" />
+        <option value="$PROJECT_DIR$/code/Pmf.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -227,14 +120,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.32914287" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -260,11 +154,31 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/code/thinkstats2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="471">
+          <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/Pmf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="32" column="15" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="15" />
+          <folding>
+            <element signature="e#451#465#0" expanded="true" />
+            <element signature="e#2820#3993#0" expanded="false" />
+            <element signature="e#4025#6768#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
